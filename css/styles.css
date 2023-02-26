@@ -140,7 +140,7 @@ a {
   color: var(--color-white);
   background-color: var(--color-brand);
 }
-.market-link:hover.market-place-hidden {
+.market-link:hover.market-link {
   transform: translateY(100%);
 }
 /* Market-place */
